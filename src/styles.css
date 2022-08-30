@@ -275,12 +275,14 @@ a {
   }
   
   .message {
+    font-family: sans-serif;
     background-color: #ebebeb;
     overflow: hidden;
     height: 10rem;
   }
   
   .message:hover {
+    font-family: sans-serif;
     border-bottom: 5px solid #7f5af0;
     height: 12em;
     width: 380px;
